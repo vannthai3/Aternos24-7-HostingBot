@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PhumKhmer.aternos.me",
-    "port": 38257,
+    "ip": "KhmerTPS.aternos.me",
+    "port": 18628,
   
     "version": "",
     "try-creative": false
